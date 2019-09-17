@@ -5,6 +5,8 @@ This is a practice Notepad++ file to show you how this thing works looking at Gi
 
 ## Introduction
 
+This is an example to show the different parts of the Git repository and various commands using a web project.
+
 ## Purpose
 
 ## Deployment
