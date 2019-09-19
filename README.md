@@ -16,6 +16,8 @@ This is simply a web project using Git, this is for deployment which can be done
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2019 Git. Training 
