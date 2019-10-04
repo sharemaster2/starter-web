@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
     The Blessed One @Lord.com
+=======
+    The Blessed One  Still the one on course!!
+>>>>>>> changes
 
 # THANKS
 
